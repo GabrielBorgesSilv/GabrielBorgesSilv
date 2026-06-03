@@ -15,7 +15,7 @@
 
 Estudante de **Ciência da Computação** no Instituto Mauá de Tecnologia, com experiência prática em desenvolvimento Full Stack e projetos reais com **Inteligência Artificial Generativa**.
 
-Atuei como estagiário no **Bradesco Financiamentos** e desenvolvi soluções para o **Sistema Poliedro de Educação** — um chatbot com IA para automação de pedidos e uma plataforma de geração de imagens com IA Generativa.
+Atuei como estagiário no **Bradesco Financiamentos** e desenvolvi soluções para o **Sistema Poliedro de Educação**, um chatbot com IA para automação de pedidos e uma plataforma de geração de imagens com IA Generativa.
 
 Busco oportunidades como **Engenheiro ou Desenvolvedor de Software** para construir produtos de impacto real.
 
@@ -55,8 +55,6 @@ Jogo educacional em **Java** desenvolvido para crianças com deficiências da Es
 Plataforma web voluntária em **HTML, CSS e JavaScript** para divulgação do projeto Matemática no Metrô do Instituto Mauá de Tecnologia.
 
 ---
-
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
