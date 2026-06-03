@@ -60,15 +60,10 @@ Plataforma web voluntária em **HTML, CSS e JavaScript** para divulgação do pr
 
 <div align="center">
 
-![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielBorgesSilv&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBorgesSilv&layout=compact&theme=tokyonight&hide_border=true)
+![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielBorgesSilv&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBorgesSilv&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 </div>
 
----
 
-<div align="center">
-
-*"Tecnologia só faz sentido quando resolve problemas reais para pessoas reais."*
-
-</div>
