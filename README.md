@@ -58,11 +58,13 @@ Plataforma web voluntária em **HTML, CSS e JavaScript** para divulgação do pr
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
 
-![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielBorgesSilv&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+[![GitHub Streak](https://streak-stats.demolab.com?user=GabrielBorgesSilv&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBorgesSilv&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBorgesSilv&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
