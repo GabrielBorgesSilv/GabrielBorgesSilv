@@ -11,7 +11,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 Estudante de **Ciência da Computação** no Instituto Mauá de Tecnologia, com experiência prática em desenvolvimento Full Stack e projetos reais com **Inteligência Artificial Generativa**.
 
@@ -21,7 +21,7 @@ Busco oportunidades como **Engenheiro ou Desenvolvedor de Software** para constr
 
 ---
 
-## 🚀 Tecnologias
+## Tecnologias
 
 <div align="center">
 
@@ -40,23 +40,23 @@ Busco oportunidades como **Engenheiro ou Desenvolvedor de Software** para constr
 
 ---
 
-## 📌 Projetos em Destaque
+## Projetos em Destaque
 
-### 🤖 Chatbot Poliedro
+### Chatbot Poliedro
 Aplicativo mobile com chatbot de IA para automação completa de pedidos nos restaurantes do Sistema Poliedro. Desenvolvido com **React, Python, LangChain e MongoDB**.
 
-### 🎨 Gerador de Imagens Poliedro
+### Gerador de Imagens Poliedro
 Plataforma multiplataforma (mobile e web) de geração de imagens com IA Generativa para apoiar alunos e professores. Desenvolvido com **Flutter, Dart e API Gemini via OpenRouter**.
 
-### 🎮 Jogo Educacional O Semeador
+### Jogo Educacional O Semeador
 Jogo educacional em **Java** desenvolvido para crianças com deficiências da Escola Metodista O Semeador (São Caetano do Sul, SP).
 
-### 🌐 Matemática no Metrô
+### Matemática no Metrô
 Plataforma web voluntária em **HTML, CSS e JavaScript** para divulgação do projeto Matemática no Metrô do Instituto Mauá de Tecnologia.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
